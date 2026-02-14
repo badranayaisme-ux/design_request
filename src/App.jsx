@@ -78,7 +78,7 @@ const Gate = ({ onSelectRole }) => (
       <Terminal size={40} className="text-white" />
     </div>
     <h1 className="text-4xl font-black tracking-tighter mb-2 italic">
-      <GradientText>DESIGNCORE</GradientText>
+      <GradientText>TASIKREATIF</GradientText>
     </h1>
     <p className="text-[10px] text-slate-500 font-bold tracking-[0.4em] uppercase mb-12">Portal Akses Protokol v3.0</p>
     
